@@ -54,7 +54,9 @@ The attack ladder runs from cheap swarms of walkers, crawlers and bats up throug
 
 Thirteen military ranks from Private to General, a kill feed naming who sent each zombie you dropped, and a top-attackers board ranking the viewers doing the most damage. Let a zombie reach the sandbags and it costs your base health. Four difficulty presets, a configurable horde cap, and twelve languages.
 
-## Gameplay
+## What it looks like on stream
+
+<img src="stream.webp" alt="Zombie Hill running on a TikTok Live" width="320">
 
 [Watch Zombie Hill gameplay](https://cdn.livecade.io/games/zombie-hill.mp4)
 
